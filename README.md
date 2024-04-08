@@ -1,1 +1,1 @@
-Tecnologias usadas HTML,CSS,JAVASCRIPT.
+Animação do Planeta Sombrio (HTML, CSS, JS)
